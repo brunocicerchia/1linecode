@@ -1,0 +1,71 @@
+body {
+	overflow-x:hidden;
+  background-color: #95A5A6;
+	overflow-y:scroll;
+}
+
+.titulo {
+  font-family: 'Lato', sans-serif;
+  color: #F2F1EF;
+}
+
+.header {
+  background-color: #1E8BC3;
+}
+
+.head {
+  background-color: #3498DB;
+}
+
+.texto {
+  font-family: 'Lato', sans-serif;
+  color: #F2F1EF;
+}
+
+.headImg {
+  height: 250px;
+  width: 250px;
+}
+
+.margenHead {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.margenImgHead {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.boton {
+  margin-top: 40px;
+  margin-bottom:40px;
+}
+
+.textoo {
+	font-family: 'Oswald', sans-serif;
+	color: #F2F1EF;
+	margin-top: 15px;
+}
+
+.area {
+	height: 500px;
+	width: 100%;
+}
+
+.areaFinal {
+	width: 100%;
+}
+
+.footerMargin {
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #22313F;
+}
+
+.formularioText {
+  font-family: 'Lato', sans-serif;
+  color: #EEEEEE;
+}
